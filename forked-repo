@@ -1,0 +1,10 @@
+curl -s https://api.github.com/repos/Akshata1506/simple-interest-calculator-2 | grep -E '"fork"|"full_name"|"parent"|"source"'
+
+"full_name": "Akshata1506/simple-interest-calculator-2",
+"fork": true,
+"parent": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+"fork": false,
+"source": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+"fork": false,
