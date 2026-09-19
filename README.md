@@ -27,4 +27,3 @@ Simple Interest = (1000 × 5 × 2) / 100
 
 Simple Interest = 100
 Bug fix
-Bug fix
