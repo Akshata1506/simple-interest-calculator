@@ -23,5 +23,5 @@ The calculator displays the calculated simple interest.
 If the principal amount is 1000, the rate of interest is 5%, and the time is 2 years:
 
 Simple Interest = (1000 × 5 × 2) / 100
-
+   
 Simple Interest = 100
