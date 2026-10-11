@@ -1,4 +1,3 @@
-
 # Simple Interest Calculator
 
 ## Description
@@ -11,9 +10,9 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Inputs
 
-- Principal Amount
-- Rate of Interest
-- Time Period
+* Principal Amount
+* Rate of Interest
+* Time Period
 
 ## Output
 
