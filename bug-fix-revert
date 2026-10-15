@@ -1,4 +1,4 @@
-**Task 8: Pull Request Verification**
+Task 8: Pull Request Verification
 
 **cURL Command:**
 
@@ -8,18 +8,14 @@ curl -L -H "Accept: application/vnd.github+json" https://api.github.com/repos/Ak
 
 **Terminal Output:**
 
-The command returned details for Pull Request #2, titled **“Revert typo fix”**.
+The command returned details for Pull Request #2, titled “Revert typo fix”.
 
-* **Repository:** `Akshata1506/simple-interest-calculator`
-* **Pull Request:** #2
-* **State:** Open
-* **Merged:** No
-* **Head Branch:** `bug-fix-revert`
-* **Base Branch:** `main`
-* **Mergeable State:** `dirty`
-* **Commits:** 6
-* **Files Changed:** 3
-
-**Fork Verification:**
-
-The forked repository could not be verified. The repository `Akshata1506/simple-interest-calculator-2` returned `404 Not Found`, and it was not listed among the repositories in the GitHub account.
+* Repository: `Akshata1506/simple-interest-calculator`
+* Pull Request: #2
+* State: Open
+* Merged: No
+* Head Branch: `bug-fix-revert`
+* Base Branch: `main`
+* Mergeable State: `dirty`
+* Commits: 6
+* Files Changed: 3
