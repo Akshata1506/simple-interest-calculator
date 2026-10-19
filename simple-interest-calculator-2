@@ -1,0 +1,17 @@
+Task 8: Pull Request Verification
+
+**cURL Command:**
+
+```bash
+curl -L -H "Accept: application/vnd.github+json" https://api.github.com/repos/Akshata1506/simple-interest-calculator/pulls/2
+```
+
+**Terminal Output:**
+
+The command retrieves details for Pull Request #2, titled “Revert typo fix”.
+
+* Repository: `Akshata1506/simple-interest-calculator`
+* Pull Request: #2
+* State: Open
+* Head Branch: `bug-fix-revert`
+* Base Branch: `main`
